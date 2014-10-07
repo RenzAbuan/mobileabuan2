@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# mobileAbuan2
+#
+
+projectname: mobileAbuan2
+vendorid: com.mycompany
+mainmodule: com.mycompany.mobileabuan2
